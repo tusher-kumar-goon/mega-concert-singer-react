@@ -1,9 +1,27 @@
 .images{
-    height: 200px;
+    height: 150px;
+    width: 120px;
+
+  
 }
 .singer-cart{
     box-shadow: 5px 10px 8px #888888;
 }
 .btn-add{
-  margin-left: 40px;
+  margin: 20px 0px 4px 2px;
+  margin-left: 50px;
+  width: 150px;
+}
+.redy{
+  display: flex;
+}
+.about{
+  line-height: 0.6;
+  margin-left: 5px;
+  margin-top: 5px;
+
+}
+.red{
+  background-color: rgba(119, 136, 153, 0.24);
+ 
 }

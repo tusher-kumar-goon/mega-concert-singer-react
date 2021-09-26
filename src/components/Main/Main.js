@@ -27,6 +27,7 @@ const Main = () => {
                 <div className="row">
                     {
                         singers.map(singer => <Singer
+                            key={singer.key}
                             singer={singer}
                             handleAddSinger={handleAddSinger}
                         ></Singer>)
@@ -34,7 +35,7 @@ const Main = () => {
 
                 </div>
             </div>
-            <div className="col-md-2">
+            <div className="col-md-3">
                 <Cart
                     cart={cart}
                 ></Cart>

@@ -9,7 +9,7 @@ const Cart = (props) => {
     return (
         <div>
             <div className="total-cast  shadow-lg">
-                <h5><i class="fas fa-user me-2 icon"></i>
+                <h5><i className="fas fa-user me-2 icon"></i>
                     Singer Aded:{cart.length}</h5>
                 <h4>Total Cost:
                     <br />
@@ -21,6 +21,7 @@ const Cart = (props) => {
                 <ul>
                     {
                         cart.map(singer => <li>{singer.name}</li>)
+
                     }
                 </ul>
             </div>
