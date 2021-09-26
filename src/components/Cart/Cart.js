@@ -21,7 +21,6 @@ const Cart = (props) => {
                 <ul>
                     {
                         cart.map(singer => <li>{singer.name}</li>)
-
                     }
                 </ul>
             </div>
