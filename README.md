@@ -1,6 +1,6 @@
 # Mega Concert And Choos your Singer
 
-My live site link [Create React App](https://gallant-tesla-d2681c.netlify.app/?fbclid=IwAR1tpJX9Neg_ofHUEz4LskTBeDkFh7Dl_VSmqf-YP1tmGw53PjnRz8AbvRo).
+My live site link(https://gallant-tesla-d2681c.netlify.app/?fbclid=IwAR1tpJX9Neg_ofHUEz4LskTBeDkFh7Dl_VSmqf-YP1tmGw53PjnRz8AbvRo).
 
 #Some thinks about my site
  * This site is make for arranging all popular singer.
